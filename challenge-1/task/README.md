@@ -1,6 +1,6 @@
-# N x N Tic‑tac‑toe (M in a row)
+# 3 x 3 Tic‑tac‑toe (M in a row)
 
-This is a scaffold for an advanced tic‑tac‑toe game where the board is N x N and a player wins with M marks in a row (horizontal, vertical, or diagonal).
+This is a scaffold for a tic‑tac‑toe game where the board is 3 x 3 and a player wins with 3 marks in a row (horizontal, vertical, or diagonal).
 
 Your tasks:
 
